@@ -1,0 +1,1477 @@
+{
+  "scans": [
+    {
+      "scan_number": 1,
+      "timestamp": "2026-04-25 23:12:51",
+      "process_count": 399,
+      "connection_count": 266,
+      "system_stats": {
+        "cpu_percent": 3.6,
+        "memory_percent": 91.0,
+        "disk_percent": 46.9,
+        "boot_time": "2026-04-15 05:48:45"
+      },
+      "alerts": [
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+          "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+          "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+          "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+          "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+          "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        }
+      ],
+      "alert_summary": {
+        "HIGH": 18,
+        "MEDIUM": 0,
+        "LOW": 0
+      }
+    },
+    {
+      "scan_number": 2,
+      "timestamp": "2026-04-25 23:13:07",
+      "process_count": 398,
+      "connection_count": 261,
+      "system_stats": {
+        "cpu_percent": 2.3,
+        "memory_percent": 90.9,
+        "disk_percent": 46.9,
+        "boot_time": "2026-04-15 05:48:45"
+      },
+      "alerts": [
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+          "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+          "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+          "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+          "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+          "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "HIGH_CPU",
+          "severity": "MEDIUM",
+          "detail": "System Idle Process (PID 0) using 2068.8% CPU",
+          "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+        }
+      ],
+      "alert_summary": {
+        "HIGH": 18,
+        "MEDIUM": 1,
+        "LOW": 0
+      }
+    },
+    {
+      "scan_number": 3,
+      "timestamp": "2026-04-25 23:13:23",
+      "process_count": 399,
+      "connection_count": 266,
+      "system_stats": {
+        "cpu_percent": 6.3,
+        "memory_percent": 92.4,
+        "disk_percent": 46.9,
+        "boot_time": "2026-04-15 05:48:45"
+      },
+      "alerts": [
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+          "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+          "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+          "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+          "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+          "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "HIGH_CPU",
+          "severity": "MEDIUM",
+          "detail": "System Idle Process (PID 0) using 2035.8% CPU",
+          "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+        }
+      ],
+      "alert_summary": {
+        "HIGH": 18,
+        "MEDIUM": 1,
+        "LOW": 0
+      }
+    },
+    {
+      "scan_number": 4,
+      "timestamp": "2026-04-25 23:15:45",
+      "process_count": 395,
+      "connection_count": 256,
+      "system_stats": {
+        "cpu_percent": 7.1,
+        "memory_percent": 91.6,
+        "disk_percent": 46.9,
+        "boot_time": "2026-04-15 05:48:45"
+      },
+      "alerts": [
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+          "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+          "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+          "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+          "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+          "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        }
+      ],
+      "alert_summary": {
+        "HIGH": 18,
+        "MEDIUM": 0,
+        "LOW": 0
+      }
+    },
+    {
+      "scan_number": 5,
+      "timestamp": "2026-04-25 23:16:02",
+      "process_count": 398,
+      "connection_count": 258,
+      "system_stats": {
+        "cpu_percent": 3.0,
+        "memory_percent": 91.9,
+        "disk_percent": 46.9,
+        "boot_time": "2026-04-15 05:48:45"
+      },
+      "alerts": [
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+          "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+          "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+          "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+          "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+          "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "HIGH_CPU",
+          "severity": "MEDIUM",
+          "detail": "System Idle Process (PID 0) using 1877.5% CPU",
+          "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+        },
+        {
+          "type": "HIGH_CPU",
+          "severity": "MEDIUM",
+          "detail": "svchost.exe (PID 5588) using 107.9% CPU",
+          "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+        }
+      ],
+      "alert_summary": {
+        "HIGH": 18,
+        "MEDIUM": 2,
+        "LOW": 0
+      }
+    },
+    {
+      "scan_number": 6,
+      "timestamp": "2026-04-25 23:16:18",
+      "process_count": 398,
+      "connection_count": 254,
+      "system_stats": {
+        "cpu_percent": 1.6,
+        "memory_percent": 91.9,
+        "disk_percent": 46.9,
+        "boot_time": "2026-04-15 05:48:45"
+      },
+      "alerts": [
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+          "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+          "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+          "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+          "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+          "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+          "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "SUSPICIOUS_PROCESS",
+          "severity": "HIGH",
+          "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+          "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+        },
+        {
+          "type": "HIGH_CPU",
+          "severity": "MEDIUM",
+          "detail": "System Idle Process (PID 0) using 2041.2% CPU",
+          "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+        }
+      ],
+      "alert_summary": {
+        "HIGH": 18,
+        "MEDIUM": 1,
+        "LOW": 0
+      }
+    }
+  ],
+  "alerts": [
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+      "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+      "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+      "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+      "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+      "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+      "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+      "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+      "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+      "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+      "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "HIGH_CPU",
+      "severity": "MEDIUM",
+      "detail": "System Idle Process (PID 0) using 2068.8% CPU",
+      "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+      "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+      "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+      "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+      "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+      "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "HIGH_CPU",
+      "severity": "MEDIUM",
+      "detail": "System Idle Process (PID 0) using 2035.8% CPU",
+      "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+      "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+      "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+      "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+      "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+      "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+      "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+      "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+      "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+      "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+      "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "HIGH_CPU",
+      "severity": "MEDIUM",
+      "detail": "System Idle Process (PID 0) using 1877.5% CPU",
+      "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+    },
+    {
+      "type": "HIGH_CPU",
+      "severity": "MEDIUM",
+      "detail": "svchost.exe (PID 5588) using 107.9% CPU",
+      "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: ShellExperienceHost.exe (PID 2496)",
+      "recommendation": "Investigate process ShellExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: cmd.exe (PID 9740)",
+      "recommendation": "Investigate process cmd.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 16264)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: StartMenuExperienceHost.exe (PID 18824)",
+      "recommendation": "Investigate process StartMenuExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: PhoneExperienceHost.exe (PID 21384)",
+      "recommendation": "Investigate process PhoneExperienceHost.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 25396)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 28000)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 31056)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 33324)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 42584)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 42916)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OneDrive.Sync.Service.exe (PID 49024)",
+      "recommendation": "Investigate process OneDrive.Sync.Service.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 52496)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 56476)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 57596)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 60020)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: powershell.exe (PID 60768)",
+      "recommendation": "Investigate process powershell.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "SUSPICIOUS_PROCESS",
+      "severity": "HIGH",
+      "detail": "Suspicious process detected: OpenConsole.exe (PID 63684)",
+      "recommendation": "Investigate process OpenConsole.exe immediately. Terminate if unauthorized."
+    },
+    {
+      "type": "HIGH_CPU",
+      "severity": "MEDIUM",
+      "detail": "System Idle Process (PID 0) using 2041.2% CPU",
+      "recommendation": "High CPU may indicate crypto-mining malware or runaway process."
+    }
+  ],
+  "summary": {}
+}
